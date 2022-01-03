@@ -142,6 +142,7 @@ Also bind `class' to ((class color) (min-colors 89))."
    `(link-visited ((t (:foreground ,color8 :underline t :weight normal))))
    `(linum ((t (:inherit line-number))))
    `(log-edit-header ((t (:foreground ,color9 :weight bold))))
+   `(marginalia-documentation ((t (:foreground ,color4 :slant italic))))
    `(menu ((t (:background ,color0 :foreground ,color5))))
    `(message-cited-text-4 ((t (:background nil :foreground ,color6))))
    `(message-header-name ((t (:foreground ,color9 :weight bold))))
